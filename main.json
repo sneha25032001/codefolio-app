@@ -1,6 +1,6 @@
 {
   "github_url": "https://sneha25032001.github.io/codefolio-app/",
-  "vercel_api": "http://192.168.29.80:3000",
+  "vercel_api": "https://codefolio-ally-be.vercel.app",
   "projects_url": "https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
   "send_email_api": "https://send-email-api-taupe.vercel.app/",
   "otp_endpoint": "send-email",
