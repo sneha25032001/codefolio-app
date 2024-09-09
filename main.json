@@ -8,7 +8,7 @@
   "get_featured_endpoint": "featured-info",
   "update_email_sheet": "https://script.google.com/macros/s/AKfycbx91LVKx48a439GpED4JmMz-w9XQ99jNKwM77hG8HRJItrGWJbFbESCnSdto23neY8WGA/exec",
   "otp_sign_in_enabled": true,
-  "latest_version": 1,
+  "latest_version": 3,
   "mandatory": true,
   "flag": 0,
   "feedback": {
@@ -20,10 +20,10 @@
   "msg": "",
   "download_url": "",
   "options": [],
-  "app_url": "",
-  "app_name": "React Ally",
+  "app_url": "https://play.google.com/store/apps/details?id=com.codecoffee",
+  "app_name": "Codefolio Ally",
   "release_features": [],
-  "gmail": "dummy@gmail.com",
+  "gmail": "ethostypos@gmail.com",
   "downTimeAlert": {
     "showDownTimeAlert": false,
     "heading": "Notice",
@@ -33,7 +33,7 @@
       "heading": "Please report to us",
       "subject": "App is down for maintenance",
       "body": "",
-      "email": "dummy@gmail.com",
+      "email": "ethostypos@gmail.com",
       "inputBoxPlaceholder": "Write your message here..",
       "buttonText": "Send"
     }
@@ -46,7 +46,7 @@
       "heading": "Report to us",
       "subject": "App is unable to fetch data",
       "body": "",
-      "email": "dummy@gmail.com",
+      "email": "ethostypos@gmail.com",
       "inputBoxPlaceholder": "Write your message here..",
       "buttonText": "Send"
     }
