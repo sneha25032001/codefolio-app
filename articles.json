@@ -12,7 +12,7 @@
       "author": "asacore1",
       "content": "One of the core philosophies of React is its emphasis on building reusable components. This approach not only streamlines the development process but also significantly enhances the main...",
       "tags": ["reusability", "javascript"],
-      "url": "https://programmer-ally.vercel.app/article/2"
+      "url": "https://programmer-ally.vercel.app/article/2/codeolio"
     },
     {
       "title": "MongoDB for Cloud and Microservices: Best Practices and Key Insights",
@@ -26,7 +26,7 @@
       "author": "ama@_123",
       "content": "React has revolutionized the way we build user interfaces since its introduction by Facebook in 2013. Its component-based architecture, virtual DOM, and declarative style have made it a go-to choice for developers. As React continues to evolve, it's essential to stay updated with the latest trends and best practices to maintain a competitive edge in the industry....",
       "tags": ["react", "practices", "trends"],
-      "url": "https://programmer-ally.vercel.app/article/1"
+      "url": "https://programmer-ally.vercel.app/article/1/codeolio"
     },
     {
       "title": "MongoDB`s Performance over RDBMS",
@@ -40,7 +40,7 @@
       "author": "user265",
       "content": "Since their introduction in React 16.8, hooks have transformed the way developers build and manage state in functional components. Hooks provide a more elegant way to manage state an...",
       "tags": ["react", "hooks", "javascript"],
-      "url": "https://programmer-ally.vercel.app/article/3"
+      "url": "https://programmer-ally.vercel.app/article/3/codeolio"
     },
     {
       "title": "How to Secure MongoDB Data Access with Views",
@@ -61,7 +61,7 @@
       "author": "louise_antony",
       "content": "In the fast-paced world of web development, efficiency and consistency are paramount. Component libraries in React play a crucial role in achieving these goals by providing pre-built, reu...",
       "tags": ["react", "component", "library"],
-      "url": "https://programmer-ally.vercel.app/article/4"
+      "url": "https://programmer-ally.vercel.app/article/4/codeolio"
     },
     {
       "title": "Things to Know When You Switch from SQL to MongoDB",
@@ -75,7 +75,7 @@
       "author": "john_pentol",
       "content": "As React applications grow in complexity, state management becomes a crucial aspect of ensuring maintainable and scalable code. While React's built-in state management capabilities a...",
       "tags": ["react", "state", "management"],
-      "url": "https://programmer-ally.vercel.app/article/6"
+      "url": "https://programmer-ally.vercel.app/article/6/codeolio"
     },
     {
       "title": "Securing MongoDB with TLS",
@@ -89,7 +89,7 @@
       "author": "saga_yomama",
       "content": "In the modern web development landscape, performance optimization is a crucial aspect of building scalable and efficient applications. React, as a popular library for building user interfaces, offers several to",
       "tags": ["react", "optimization", "performance"],
-      "url": "https://programmer-ally.vercel.app/article/7"
+      "url": "https://programmer-ally.vercel.app/article/7/codeolio"
     },
     {
       "title": "Data Modeling and Schema Design for Atlas Search",
@@ -103,7 +103,7 @@
       "author": "ching_chou",
       "content": "As web applications grow in complexity, managing state effectively becomes crucial. Redux, a state management library for JavaScript applications, provides a predictable state container that simplifies the management of application state.",
       "tags": ["redux", "react", "state", "management"],
-      "url": "https://programmer-ally.vercel.app/article/8"
+      "url": "https://programmer-ally.vercel.app/article/8/codeolio"
     },
     {
       "title": "Optimizing MongoDB Queries for Performance",
@@ -117,7 +117,7 @@
       "author": "webyaml2",
       "content": "Web accessibility ensures that people with disabilities can perceive, understand, navigate, and interact with the web. It involves designing websites and applications to be usable by ever...",
       "tags": ["web", "accessibility", "design"],
-      "url": "https://programmer-ally.vercel.app/article/10"
+      "url": "https://programmer-ally.vercel.app/article/10/codeolio"
     },
     {
       "title": "Understanding MongoDB Aggregation Framework",
@@ -131,14 +131,14 @@
       "author": "guest_565",
       "content": "Testing is an integral part of React development, ensuring that applications are robust, reliable, and maintainable. By writing tests, developers can catch bugs early, simplify refactoring, an",
       "tags": ["react", "testing"],
-      "url": "https://programmer-ally.vercel.app/article/12"
+      "url": "https://programmer-ally.vercel.app/article/12/codeolio"
     },
     {
       "title": "Enhancing User Experience with Animations in React",
       "author": "batch_2021",
       "content": "Animations can greatly enhance the user experience of web applications, making them more interactive and engaging. React, with its powerful component-based architecture, offers various ways to implement animations. This article explores how to add animations to your React applications using different techniques and libraries.",
       "tags": ["react", "animations", "user", "experience"],
-      "url": "https://programmer-ally.vercel.app/article/13"
+      "url": "https://programmer-ally.vercel.app/article/13/codeolio"
     }
   ]
 }
