@@ -5,7 +5,7 @@
       "author": "ama@_123",
       "content": "MongoDB has emerged as one of the most popular NoSQL databases since its release in 2009. Known for its flexibility, scalability, and ease of use, MongoDB has become a preferred choice for developers building modern applications. Understanding its features and best practices is crucial for leveraging its full potential.",
       "tags": ["mongo", "practices", "trends"],
-      "url": "https://mongodb-ally-website.vercel.app/article/1"
+      "url": "https://mongodb-ally-website.vercel.app/article/1/codeolio"
     },
     {
       "title": "The Importance of Component Reusability in React",
@@ -19,7 +19,7 @@
       "author": "asacore1",
       "content": "MongoDB has become synonymous with modern application development, thanks to its NoSQL foundation, which offers unmatched flexibility and performance. As more businesses shift towards...",
       "tags": ["cloud", "microservices"],
-      "url": "https://mongodb-ally-website.vercel.app/article/2"
+      "url": "https://mongodb-ally-website.vercel.app/article/2/codeolio"
     },
     {
       "title": "The Evolution of React: Trends and Best Practices",
@@ -33,7 +33,7 @@
       "author": "user265",
       "content": "In the ever-evolving landscape of data management, the debate between NoSQL databases like MongoDB and traditional Relational Database Management Systems (RDBMS)...",
       "tags": ["rdbms", "mongodb", "performance"],
-      "url": "https://mongodb-ally-website.vercel.app/article/3"
+      "url": "https://mongodb-ally-website.vercel.app/article/3/codeolio"
     },
     {
       "title": "Leveraging the Power of React Hooks",
@@ -47,14 +47,14 @@
       "author": "louise_antony",
       "content": "In the fast-paced world of web development, efficiency and consistency are paramount. Component libraries in React play a crucial role in achieving these goals by providing pre-built, reu...",
       "tags": ["security", "access", "vulnerabilities"],
-      "url": "https://mongodb-ally-website.vercel.app/article/4"
+      "url": "https://mongodb-ally-website.vercel.app/article/4/codeolio"
     },
     {
       "title": "Unnecessary Indexes",
       "author": "guest@2503",
       "content": " Indexes in MongoDB play a crucial role in optimizing query performance. However, while indexes can significantly speed up data retrieval, having too many or unnecessary indexes...",
       "tags": ["indexes", "performance", "optimization"],
-      "url": "https://mongodb-ally-website.vercel.app/article/5"
+      "url": "https://mongodb-ally-website.vercel.app/article/5/codeolio"
     },
     {
       "title": "The Role of Component Libraries in Modern React Development",
@@ -68,7 +68,7 @@
       "author": "john_pentol",
       "content": "Transitioning from a relational database management system (RDBMS) like SQL to a NoSQL database such as MongoDB can be a significant shift in how you approach data...",
       "tags": ["sql", "mongodb", "switch"],
-      "url": "https://mongodb-ally-website.vercel.app/article/6"
+      "url": "https://mongodb-ally-website.vercel.app/article/6/codeolio"
     },
     {
       "title": "Enhancing React Applications with Effective State Management",
@@ -82,7 +82,7 @@
       "author": "saga_yomama",
       "content": "In today’s digital environment, securing data in transit is crucial to protecting sensitive information from unauthorized access and interception. Transport Layer Security (TLS) is a widely adopted protocol that encrypts data as it travels over a network. By enabling...",
       "tags": ["security", "tls", "connection"],
-      "url": "https://mongodb-ally-website.vercel.app/article/7"
+      "url": "https://mongodb-ally-website.vercel.app/article/7/codeolio"
     },
     {
       "title": "Optimizing React Applications: Techniques for Enhanced Performance",
@@ -96,7 +96,7 @@
       "author": "ching_chou",
       "content": "MongoDB Atlas Search, built on Apache Lucene, provides advanced full-text search capabilities directly within MongoDB Atlas. To fully leverage Atlas Search, effective data modeling and schema design are crucial. Properly designed schemas can enhance search performance, relevance, and scalability. This article delves into best practices for designing schemas optimized for Atlas Search...",
       "tags": ["data modeling", "schema", "atlas", "mongodb"],
-      "url": "https://mongodb-ally-website.vercel.app/article/8"
+      "url": "https://mongodb-ally-website.vercel.app/article/8/codeolio"
     },
     {
       "title": "Using Redux with React for Scalable Applications",
@@ -110,7 +110,7 @@
       "author": "guest@234",
       "content": " MongoDB is renowned for its flexibility and scalability, but as data volumes and query complexities increase, optimizing query performance becomes crucial. Efficient...",
       "tags": ["performance", "query"],
-      "url": "https://mongodb-ally-website.vercel.app/article/9"
+      "url": "https://mongodb-ally-website.vercel.app/article/9/codeolio"
     },
     {
       "title": "Introduction to Web Accessibility",
@@ -124,7 +124,7 @@
       "author": "webyaml2",
       "content": "The MongoDB Aggregation Framework is a powerful tool for processing and analyzing data. It allows for sophisticated data transformations and computations, enabling developers to...",
       "tags": ["web", "accessibility", "design"],
-      "url": "https://mongodb-ally-website.vercel.app/article/10"
+      "url": "https://mongodb-ally-website.vercel.app/article/10/codeolio"
     },
     {
       "title": "The Role of Testing in React Development",
